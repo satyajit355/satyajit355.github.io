@@ -723,28 +723,3 @@ footer span a:hover{
         line-height: 38px;
     }
 }
-
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-/* width */
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: #111111;
-}
-
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #14c5dc;
-  border-radius: 10px;
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #00d5ff;
-}
