@@ -47,6 +47,14 @@ $(document).ready(function(){
         backSpeed: 60,
         loop: true
     });
+    
+    // typing name animation script
+    var typed = new Typed(".name", {
+        strings: ["Rtxeon", "Aditya Suthar"],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop: true
+    });
 
     // owl carousel script
     $('.carousel').owlCarousel({
